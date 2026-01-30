@@ -1,0 +1,12 @@
+{
+  "name": "MovePlus Shoe #5",
+  "description": "MovePlus Shoes are in-game NFTs used in the MovePlus ecosystem.",
+  "image": "https://cdn.jsdelivr.net/gh/moveplus-app/moveplus-assets/legendary.png",
+  "external_url": "https://moveplus.app/shoe/5",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Durability", "value": 100, "max_value": 100 },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Active", "value": false }
+  ]
+}
